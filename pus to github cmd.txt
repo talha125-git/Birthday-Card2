@@ -1,4 +1,4 @@
 git add .
-git commit -m "Update birthday message to include 'Talha' "
+git commit -m "Update birthday message to include 'Talha KHAN' "
 
 git push -u origin main
